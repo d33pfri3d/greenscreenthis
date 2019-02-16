@@ -1,0 +1,11 @@
+{
+  "name": "Green Screen This",
+  "short_name": "GST",
+  "theme_color": "#21f33f",
+  "background_color": "#21f33f",
+  "display": "fullscreen",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": null,
+  "splash_pages": null
+}
